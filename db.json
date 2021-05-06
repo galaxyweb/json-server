@@ -2,7 +2,7 @@
   "events": [
     {
       "id": 1,
-      "guid": "01f04f8d-135a-4b12-8894-5f6ed2abea91",
+      "color": "red",
       "isActive": true,
       "name": "Event 1",
       "date": "2021-01-05",
@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "guid": "16b3eebe-bcd3-440e-a793-32e84372f72a",
+      "color": "green",
       "isActive": true,
       "name": "Event 2",
       "date": "2021-02-13",
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "guid": "34e9a12f-e8b3-4970-bba5-0ce133516ad0",
+      "color": "blue",
       "isActive": false,
       "name": "Event 3",
       "date": "2021-04-06",
@@ -47,7 +47,7 @@
     },
     {
       "id": 4,
-      "guid": "634800fa-cc21-4bf3-b325-1788758dae2b",
+      "color": "yellow",
       "isActive": false,
       "name": "Event 4",
       "date": "2021-01-01",
@@ -62,7 +62,7 @@
     },
     {
       "id": 5,
-      "guid": "0f273f75-4dce-4ae4-9d3d-a6da93352286",
+      "color": "pink",
       "isActive": false,
       "name": "Event 5",
       "date": "2020-11-17",
@@ -79,7 +79,7 @@
   "events-2": [
     {
       "id": 1,
-      "guid": "01f04f8d-135a-4b12-8894-5f6ed2abea91",
+      "color": "red",
       "isActive": true,
       "name": "Event 1",
       "date": "2021-01-05",
@@ -94,7 +94,7 @@
     },
     {
       "id": 2,
-      "guid": "16b3eebe-bcd3-440e-a793-32e84372f72a",
+      "color": "green",
       "isActive": true,
       "name": "Event 2",
       "date": "2021-02-13",
@@ -109,7 +109,7 @@
     },
     {
       "id": 3,
-      "guid": "34e9a12f-e8b3-4970-bba5-0ce133516ad0",
+      "color": "blue",
       "isActive": false,
       "name": "Event 3",
       "date": "2021-04-06",
@@ -124,7 +124,7 @@
     },
     {
       "id": 4,
-      "guid": "634800fa-cc21-4bf3-b325-1788758dae2b",
+      "color": "yellow",
       "isActive": false,
       "name": "Event 4",
       "date": "2021-01-01",
@@ -139,7 +139,7 @@
     },
     {
       "id": 5,
-      "guid": "0f273f75-4dce-4ae4-9d3d-a6da93352286",
+      "color": "pink",
       "isActive": false,
       "name": "Event 5",
       "date": "2020-11-17",
@@ -156,7 +156,7 @@
   "events-3": [
     {
       "id": 1,
-      "guid": "01f04f8d-135a-4b12-8894-5f6ed2abea91",
+      "color": "red",
       "isActive": true,
       "name": "Event 1",
       "date": "2021-01-05",
@@ -171,7 +171,7 @@
     },
     {
       "id": 2,
-      "guid": "16b3eebe-bcd3-440e-a793-32e84372f72a",
+      "color": "green",
       "isActive": true,
       "name": "Event 2",
       "date": "2021-02-13",
@@ -186,7 +186,7 @@
     },
     {
       "id": 3,
-      "guid": "34e9a12f-e8b3-4970-bba5-0ce133516ad0",
+      "color": "blue",
       "isActive": false,
       "name": "Event 3",
       "date": "2021-04-06",
@@ -201,7 +201,7 @@
     },
     {
       "id": 4,
-      "guid": "634800fa-cc21-4bf3-b325-1788758dae2b",
+      "color": "yellow",
       "isActive": false,
       "name": "Event 4",
       "date": "2021-01-01",
@@ -216,7 +216,7 @@
     },
     {
       "id": 5,
-      "guid": "0f273f75-4dce-4ae4-9d3d-a6da93352286",
+      "color": "pink",
       "isActive": false,
       "name": "Event 5",
       "date": "2020-11-17",
