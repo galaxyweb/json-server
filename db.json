@@ -47,7 +47,7 @@
     },
     {
       "id": 4,
-      "color": "yellow",
+      "color": "orange",
       "isActive": false,
       "name": "Event 4",
       "date": "2021-01-01",
@@ -124,7 +124,7 @@
     },
     {
       "id": 4,
-      "color": "yellow",
+      "color": "orange",
       "isActive": false,
       "name": "Event 4",
       "date": "2021-01-01",
@@ -201,7 +201,7 @@
     },
     {
       "id": 4,
-      "color": "yellow",
+      "color": "orange",
       "isActive": false,
       "name": "Event 4",
       "date": "2021-01-01",
